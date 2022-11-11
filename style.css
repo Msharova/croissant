@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: wheat;
+}
+img {
+  margin: 50px auto;
+  width: 600px;
+  border-radius: 10px;
+}
